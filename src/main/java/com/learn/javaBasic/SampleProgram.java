@@ -1,4 +1,4 @@
-package com.learn.javaBasics;
+package com.learn.javaBasic;
 
 public class SampleProgram {
 

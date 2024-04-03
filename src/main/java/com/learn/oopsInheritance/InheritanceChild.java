@@ -1,6 +1,6 @@
 package com.learn.oopsInheritance;
 
-import com.learn.javaBasics.SampleProgram;
+import com.learn.javaBasic.SampleProgram;
 
 public class InheritanceChild extends InheritanceParent{
     public static void main(String[] args){
